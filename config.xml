@@ -11,10 +11,10 @@
     </author>
     
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="3.7.0" /> <!-- Version en la que se va a compilar, se puede elegir en base a lo que uno usa -->
+    <!-- <preference name="phonegap-version" value="3.7.0" /> --> <!-- Version en la que se va a compilar, se puede elegir en base a lo que uno usa -->
     <preference name="orientation" value="default" />  <!-- default es portait -->
     <preference name="target-device" value="universal" /> <!-- si es para ciertos dispositivos -->
-    <preference name="fullscreen" value="true" /> <!-- si es full o no, si se ve el reloj y demas -->
+    <!-- <preference name="fullscreen" value="true" /> --> <!-- si es full o no, si se ve el reloj y demas -->
     <preference name="webviewbounce" value="true" /> 
     <preference name="prerendered-icon" value="true" />
     <preference name="stay-in-webview" value="false" />
